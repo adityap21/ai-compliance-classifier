@@ -22,7 +22,7 @@ This is a small AI project where I built a model to flag internal emails as:
 - Jupyter Notebook
 
 ### 📄 Full Report:
-See [`project_report.md`](./project_report.md) — explained in plain English.
+See [`project_report.md`](./[project_report.md](https://github.com/adityap21/ai-compliance-classifier/blob/main/Project%20Report.docx)) — explained in plain English.
 
 ### 🔁 Azure Integration (Future Plan)
 
